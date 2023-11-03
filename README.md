@@ -6,8 +6,6 @@ Paper: https://arxiv.org/abs/2006.11239
 Website: https://github.com/HungLM1506/Diffusion-scartch-with-pytorch.git
 
 
-- LINK GG COLAB: https://colab.research.google.com/drive/1OnrR0haEOY8je1DuaPl87MtsMxKnxhA5?usp=sharing
-
 - Download weight: https://drive.google.com/file/d/1pKvT7BV9WrCO5wAPVOagxa6XyqBQ4kcx/view?usp=share_link
 
 - Code in googlecolab: https://colab.research.google.com/drive/1OnrR0haEOY8je1DuaPl87MtsMxKnxhA5?usp=sharing
